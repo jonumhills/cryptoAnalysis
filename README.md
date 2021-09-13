@@ -15,6 +15,6 @@
 
 ## Changes to be done in the code for the Application to work
 1. Change DB configurations at backend/src/config/db.config.js
-2. Change Backend Address to your IP at 
+2. Change Proxy in frontend/package.json to your IP
 ## API's used
 1. [Wazirx API which provides live price of a coin](https://api.wazirx.com/api/v2/tickers)
