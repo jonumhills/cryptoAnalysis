@@ -1,7 +1,7 @@
 export default {
   host: "localhost",
   user: "root",
-  password: "1234",
+  password: "add ur password",
   database: "portfolio",
   dialect: "mysql",
   pool: {
