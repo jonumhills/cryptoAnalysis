@@ -2,7 +2,7 @@
 
 >### We all are interested to know how is our cryptocurrency coins doing in the crypto trading platform, most of the platforms has this feature but it has been missing in WAZIRX platform hence created this feature as Application (CryptoAnalysis App).
 >###  TechStack  - NodeJS, ReactJS, MySQL
->##CryptoAnalysis Application consumes two information
+>## CryptoAnalysis Application consumes two information
 >1. Wazirx public API's which provides live price of a coin &
 >2. Wazirx excel trading report which provides all the trading information one has done in the platform
 >## Using these information we can compute following:
